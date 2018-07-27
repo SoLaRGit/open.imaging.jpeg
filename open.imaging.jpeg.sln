@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "open.imaging.jpeg", "open.imaging.jpeg\open.imaging.jpeg.csproj", "{EE4B7E42-0D1C-4433-A94C-0DF67CD4AEC9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{604DA621-49B8-4936-A856-59F6D82BEC3C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Samples", "Samples", "{776B06AB-60DB-4A8B-BEFE-F6613417BCF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "open.imaging.jpeg.samples", "open.imaging.jpeg.samples\open.imaging.jpeg.samples.csproj", "{5A1F1A55-4BB4-46D1-B2AA-1F53F56D7687}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Itanium = Debug|Itanium
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Itanium = Release|Itanium
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE4B7E42-0D1C-4433-A94C-0DF67CD4AEC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE4B7E42-0D1C-4433-A94C-0DF67CD4AEC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE4B7E42-0D1C-4433-A94C-0DF67CD4AEC9}.Debug|Itanium.ActiveCfg = Debug|Itanium
+		{EE4B7E42-0D1C-4433-A94C-0DF67CD4AEC9}.Debug|Itanium.Build.0 = Debug|Itanium
+		{EE4B7E42-0D1C-4433-A94C-0DF67CD4AEC9}.Debug|x64.ActiveCfg = Debug|x64
+		{EE4B7E42-0D1C-4433-A94C-0DF67CD4AEC9}.Debug|x64.Build.0 = Debug|x64
+		{EE4B7E42-0D1C-4433-A94C-0DF67CD4AEC9}.Debug|x86.ActiveCfg = Debug|x86
+		{EE4B7E42-0D1C-4433-A94C-0DF67CD4AEC9}.Debug|x86.Build.0 = Debug|x86
+		{EE4B7E42-0D1C-4433-A94C-0DF67CD4AEC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE4B7E42-0D1C-4433-A94C-0DF67CD4AEC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE4B7E42-0D1C-4433-A94C-0DF67CD4AEC9}.Release|Itanium.ActiveCfg = Release|Itanium
+		{EE4B7E42-0D1C-4433-A94C-0DF67CD4AEC9}.Release|Itanium.Build.0 = Release|Itanium
+		{EE4B7E42-0D1C-4433-A94C-0DF67CD4AEC9}.Release|x64.ActiveCfg = Release|x64
+		{EE4B7E42-0D1C-4433-A94C-0DF67CD4AEC9}.Release|x64.Build.0 = Release|x64
+		{EE4B7E42-0D1C-4433-A94C-0DF67CD4AEC9}.Release|x86.ActiveCfg = Release|x86
+		{EE4B7E42-0D1C-4433-A94C-0DF67CD4AEC9}.Release|x86.Build.0 = Release|x86
+		{5A1F1A55-4BB4-46D1-B2AA-1F53F56D7687}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A1F1A55-4BB4-46D1-B2AA-1F53F56D7687}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A1F1A55-4BB4-46D1-B2AA-1F53F56D7687}.Debug|Itanium.ActiveCfg = Debug|Itanium
+		{5A1F1A55-4BB4-46D1-B2AA-1F53F56D7687}.Debug|Itanium.Build.0 = Debug|Itanium
+		{5A1F1A55-4BB4-46D1-B2AA-1F53F56D7687}.Debug|x64.ActiveCfg = Debug|x64
+		{5A1F1A55-4BB4-46D1-B2AA-1F53F56D7687}.Debug|x64.Build.0 = Debug|x64
+		{5A1F1A55-4BB4-46D1-B2AA-1F53F56D7687}.Debug|x86.ActiveCfg = Debug|x86
+		{5A1F1A55-4BB4-46D1-B2AA-1F53F56D7687}.Debug|x86.Build.0 = Debug|x86
+		{5A1F1A55-4BB4-46D1-B2AA-1F53F56D7687}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A1F1A55-4BB4-46D1-B2AA-1F53F56D7687}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A1F1A55-4BB4-46D1-B2AA-1F53F56D7687}.Release|Itanium.ActiveCfg = Release|Itanium
+		{5A1F1A55-4BB4-46D1-B2AA-1F53F56D7687}.Release|Itanium.Build.0 = Release|Itanium
+		{5A1F1A55-4BB4-46D1-B2AA-1F53F56D7687}.Release|x64.ActiveCfg = Release|x64
+		{5A1F1A55-4BB4-46D1-B2AA-1F53F56D7687}.Release|x64.Build.0 = Release|x64
+		{5A1F1A55-4BB4-46D1-B2AA-1F53F56D7687}.Release|x86.ActiveCfg = Release|x86
+		{5A1F1A55-4BB4-46D1-B2AA-1F53F56D7687}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5A1F1A55-4BB4-46D1-B2AA-1F53F56D7687} = {776B06AB-60DB-4A8B-BEFE-F6613417BCF0}
+	EndGlobalSection
+EndGlobal

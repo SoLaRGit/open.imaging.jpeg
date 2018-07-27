@@ -1,0 +1,240 @@
+﻿4d2p|34643270|Erdt Systems GmbH & Co KG|Germany
+AAMA|41414D41|Aamazing Technologies, Inc.|USA
+ACER|41434552|AcerPeripherals|Taiwan
+ACLT|41434C54|Acolyte ColorResearch|USA
+ACTI|41435449|Actix Sytems, Inc.|USA
+ADAR|41444152|Adara Technology, Inc.|USA
+ADBE|41444245|Adobe Systems Incorporated|USA
+ADI |41444920|ADI Systems, Inc.|USA
+AGFA|41474641|Agfa Graphics N.V.|BELGIUM
+ALMD|414C4D44|Alps Electric USA, Inc.|USA
+ALPS|414C5053|Alps Electric USA, Inc.|USA
+ALWN|414C574E|Alwan ColorExpertise|France
+AMTI|414D5449|Amiable Technologies, Inc.|USA
+AOC |414F4320|AOC International (U.S.A), Ltd.|USA
+APAG|41504147|Apago|USA
+APPL|4150504C|Apple Computer, Inc.|USA
+AST |41535420|AST|USA
+AT&T|41542654|AT&T ComputerSystems|USA
+BAEL|4241454C|BARBIERI electronic|Italy
+berg|62657267|bergdesign incorporated|USA
+bICC|62494343|basICColorGmbH|Germany
+BRCO|4252434F|Barco NV|BELGIUM
+BRKP|42524B50|Breakpoint Pty Limited|Australia
+BROT|42524F54|BrotherIndustries, LTD|Japan
+BULL|42554C4C|Bull|USA
+BUS |42555320|Bus ComputerSystems|USA
+C-IT|432D4954|C-Itoh|USA
+CAMR|43414D52|Intel Corporation|USA
+CANO|43414E4F|Canon, Inc. (Canon Development Americas, Inc.)|USA
+CARR|43415252|Carroll Touch|USA
+CASI|43415349|Casio ComputerCo., Ltd.|Japan
+CBUS|43425553|Colorbus PL|Australia
+CEL |43454C20|Crossfield|USA
+CELx|43454C78|Crossfield|USA
+ceyd|63657964|Integrated ColorSolutions, Inc.|USA
+CGS |43475320|CGS Publishing Technologies International GmbH|Germany
+CHM |43484D20|RochesterRobotics|USA
+CIGL|4349474C|ColourImaging Group, London|UK
+CITI|43495449|Citizen|USA
+CL00|434C3030|Candela, Ltd.|USA
+CLIQ|434C4951|ColorIQ|USA
+clsp|636C7370|MacDermid ColorSpan, Inc.|USA
+CMCO|434D434F|Chromaco, Inc.|USA
+CMiX|434D6958|CHROMiX|USA
+COLO|434F4C4F|Colorgraphic Communications Corporation|USA
+COMP|434F4D50|COMPAQ ComputerCorporation|USA
+COMp|434F4D70|Compeq USA/Focus Technology|USA
+CONR|434F4E52|Conrac Display Products|USA
+CORD|434F5244|Cordata Technologies, Inc.|USA
+CPQ |43505120|Compaq ComputerCorporation|USA
+CPRO|4350524F|ColorPro|Germany
+CRN |43524E20|Cornerstone|USA
+CTX |43545820|CTX International, Inc.|USA
+CVIS|43564953|ColorVision|USA
+CWC |43574320|Fujitsu Laboratories, Ltd.|JAPAN
+DARI|44415249|Darius Technology, Ltd.|USA
+DATA|44415441|Dataproducts|USA
+DCP |44435020|Dry Creek Photo|USA
+DCRC|44435243|Digital Contents Resource Center, Chung-Ang University|Republic of Korea
+DELL|44454C4C|Dell ComputerCorporation|USA
+DIC |44494320|Dainippon Ink and Chemicals|USA
+DICO|4449434F|Diconix|USA
+DIGI|44494749|Digital|USA
+DL&C|444C2643|Digital Light & Color|USA
+DPLG|44504C47|Doppelganger, LLC|USA
+DS  |44532020|Dainippon Screen|USA
+ds  |64732020|Dainippon Screen|USA
+DSOL|44534F4C|DOOSOL|Korea
+DUPN|4455504E|DuPont|USA
+dupn|6475706E|DuPont|USA
+Eizo|45697A6F|EIZO NANAO CORPORATION|Japan
+EPSO|4550534F|Epson|Japan
+ESKO|45534B4F|Esko-Graphics|BELGIUM
+ETRI|45545249|Electronics and Telecommunications Research Institute|Republic of Korea
+EVER|45564552|Everex Systems, Inc.|USA
+EXAC|45584143|ExactCODE GmbH|Germany
+FALC|46414C43|Falco Data Products, Inc.|USA
+FF  |46462020|Fuji Photo Film Co.,LTD|JAPAN
+FFEI|46464549|FujiFilm Electronic Imaging, Ltd.|USA
+ffei|66666569|FujiFilm Electronic Imaging, Ltd.|USA
+flux|666C7578|FluxData Corporation|USA
+FNRD|464E5244|fnord software|USA
+FORA|464F5241|Fora, Inc.|USA
+FORE|464F5245|Forefront Technology Corporation|USA
+FP  |46502A2A|Fujitsu|JAPAN
+FPA |46504120|WayTech Development, Inc.|TAIWAN
+FUJI|46554A49|Fujitsu|JAPAN
+FX  |46582020|Fuji Xerox Co., Ltd.|JAPAN
+GCC |47434320|GCC Technologies, Inc.|USA
+GGSL|4747534C|Global Graphics Software Limited|USA
+GMB |474D4220|Gretagmacbeth|USA
+GMG |474D4720|GMG GmbH & Co. KG|Germany
+GOLD|474F4C44|GoldStarTechnology, Inc.|USA
+GPRT|47505254|Giantprint Pty Ltd|Australia
+GTMB|47544D42|Gretagmacbeth|USA
+GVC |47564320|WayTech Development, Inc.|TAIWAN
+GW2K|4757324B|Sony Corporation|USA
+HCI |48434920|HCI|USA
+HDM |48444D20|HeidelbergerDruckmaschinen AG|GERMANY
+HERM|4845524D|Hermes|USA
+HITA|48495441|Hitachi America, Ltd.|USA
+HiTi|48695469|HiTi Digital, Inc.|Taiwan
+HP  |48502020|Hewlett-Packard|USA
+HTC |48544320|Hitachi, Ltd.|Japan
+IBM |49424D20|IBM Corporation|USA
+IDNT|49444E54|Scitex Corporation, Ltd.|ISRAEL
+Idnt|49646E74|Scitex Corporation, Ltd.|ISRAEL
+IEC |49454320|Hewlett-Packard|USA
+IIYA|49495941|Iiyama North America, Inc.|USA
+IKEG|494B4547|Ikegami Electronics, Inc.|USA
+IMAG|494D4147|Image Systems Corporation|USA
+IMI |494D4920|Ingram Micro, Inc.|USA
+Inca|496E6361|Inca Digital Printers Ltd.|UK
+INTC|494E5443|Intel Corporation|USA
+INTL|494E544C|Intel Corporation|USA
+INTR|494E5452|Intra Electronics USA, Inc.|USA
+IOCO|494F434F|Iocomm International Technology Corporation|USA
+IPS |49505320|InfoPrint Solutions Company|USA
+IRIS|49524953|Scitex Corporation, Ltd.|ISRAEL
+Iris|49726973|Scitex Corporation, Ltd.|ISRAEL
+iris|69726973|Scitex Corporation, Ltd.|ISRAEL
+ISL |49534C20|Ichikawa Soft Laboratory|Japan
+ITNL|49544E4C|Intel Corporation|USA
+IVM |49564d20|IVM|USA
+IWAT|49574154|Iwatsu Electric Co., Ltd.|JAPAN
+JSFT|4A534654|Jetsoft Development|USA
+JVC |4A564320|JVC Information Products Co.|USA
+KART|4B415254|Scitex Corporation, Ltd.|ISRAEL
+Kart|4B617274|Scitex Corporation, Ltd.|ISRAEL
+kart|6B617274|Scitex Corporation, Ltd.|ISRAEL
+KFC |4B464320|KFC Computek Components Corporation|USA
+KLH |4B4C4820|KLH Computers|USA
+KMHD|4B4D4844|Konica Minolta Holdings, Inc.|Japan
+KNCA|4B4E4341|Konica Corporation|Japan
+KODA|4B4F4441|Kodak|USA
+KYOC|4B594F43|Kyocera|JAPAN
+LCAG|4C434147|Leica Camera AG|Germany
+LCCD|4C434344|Leeds Colour|UK
+LDAK|4C44414B|Left Dakota|USA
+LEAD|4C454144|Leading Technology, Inc.|USA
+LEXM|4C45584D|Lexmark International, Inc.|USA
+LINK|4C494E4B|Link Computer, Inc.|USA
+LINO|4C494E4F|Linotronic|USA
+LITE|4C495445|Lite-On, Inc.|USA
+MAGC|4D414743|Mag Computronic (USA) Inc.|USA
+MAGI|4D414749|MAG Innovision, Inc.|USA
+MANN|4D414E4E|Mannesmann|USA
+MICN|4D49434E|Micron Technology, Inc.|USA
+MICR|4D494352|Microtek|USA
+MICV|4D494356|Microvitec, Inc.|USA
+MINO|4D494E4F|Minolta|USA
+MITS|4D495453|Mitsubishi Electronics America, Inc.|USA
+MITs|4D495473|Mitsuba Corporation|USA
+Mits|4D697473|MITSUBISHI ELECTRIC CORPORATION KYOTO WORKS|JAPAN
+MNLT|4D4E4C54|Minolta|USA
+MODG|4D4F4447|Modgraph, Inc.|USA
+MONI|4D4F4E49|Monitronix, Inc.|USA
+MONS|4D4F4E53|Monaco Systems Inc.|USA
+MORS|4D4F5253|Morse Technology, Inc.|USA
+MOTI|4D4F5449|Motive Systems|Finland
+MSFT|4D534654|Microsoft Corporation|USA
+MUTO|4D55544F|MUTOH INDUSTRIES LTD.|JAPAN
+NANA|4E414E41|NANAO USA Corporation|USA
+NEC |4E454320|NEC Corporation|JAPAN
+NEXP|4E455850|NexPress Solutions LLC|USA
+NISS|4E495353|Nissei Sangyo America, Ltd.|USA
+NKON|4E4B4F4E|Nikon Corporation|Japan
+ob4d|6F623464|Erdt Systems GmbH & Co KG|Germany
+obic|6F626963|Medigraph GmbH|Germany
+OCE |4F434520|Oce Technologies B.V.|The Netherlands
+OCEC|4F434543|OceColor|USA
+OKI |4F4B4920|Oki|USA
+OKID|4F4B4944|Okidata|USA
+OKIP|4F4B4950|Okidata|USA
+OLIV|4F4C4956|Olivetti|USA
+OLYM|4F4C594D|OLYMPUS OPTICAL CO., LTD|JAPAN
+ONYX|4F4E5958|Onyx Graphics|USA
+OPTI|4F505449|Optiquest|USA
+PACK|5041434B|Packard Bell|USA
+PANA|50414E41|Matsushita Electric Industrial Co., Ltd.|JAPAN
+PANT|50414E54|Pantone, Inc.|USA
+PBN |50424E20|Packard Bell|USA
+PFU |50465520|PFU Limited|JAPAN
+PHIL|5048494C|Philips ConsumerElectronics Co.|Netherlands
+PNTX|504E5458|HOYA Corporation PENTAX Imaging Systems Division|Japan
+POne|504F6E65|Phase One A/S|Denmark
+PREM|5052454D|PremierComputerInnovations|USA
+PRIN|5052494E|Princeton Graphic Systems|USA
+PRIP|50524950|Princeton Publishing Labs|USA
+QLUX|514C5558|QLUX|Hong Kong, China
+QMS |514D5320|QMS, Inc.|USA
+QPCD|51504344|QPcard AB|Sweden
+QUAD|51554144|QuadLaser|USA
+quby|71756279|Qubyx Sarl|FRANCE
+QUME|51554D45|Qume Corporation|USA
+RADI|52414449|Radius, Inc.|USA
+RDDx|52444478|Integrated ColorSolutions, Inc.|USA
+RDG |52444720|Roland DG Corporation|Japan
+REDM|5245444D|REDMS Group, Inc.|USA
+RELI|52454C49|Relisys|USA
+RGMS|52474D53|Rolf Gierling Multitools|Germany
+RICO|5249434F|Ricoh Corporation|USA
+RNLD|524E4C44|Edmund Ronald|FRANCE
+ROYA|524F5941|Royal|USA
+RPC |52504320|Ricoh Printing Systems,Ltd.|Japan
+RTL |52544C20|Royal Information Electronics Co., Ltd.|TAIWAN
+SAMP|53414D50|Sampo Corporation of America|USA
+SAMS|53414D53|Samsung, Inc.|USA
+SANT|53414E54|Jaime Santana Pomares|SPAIN
+SCIT|53434954|Scitex Corporation, Ltd.|ISRAEL
+Scit|53636974|Scitex Corporation, Ltd.|ISRAEL
+scit|73636974|Scitex Corporation, Ltd.|ISRAEL
+SCRN|5343524E|Dainippon Screen|USA
+scrn|7363726E|Dainippon Screen|USA
+SDP |53445020|Scitex Corporation, Ltd.|ISRAEL
+Sdp |53647020|Scitex Corporation, Ltd.|ISRAEL
+sdp |73647020|Scitex Corporation, Ltd.|ISRAEL
+SEC |53454320|SAMSUNG ELECTRONICS CO.,LTD|Korea
+SEIK|5345494B|Seiko Instruments U.S.A., Inc.|USA
+SEIk|5345496B|Seikosha|USA
+SGUY|53475559|ScanGuy.com|USA
+SHAR|53484152|Sharp Laboratories|USA
+SICC|53494343|International ColorConsortium|USA
+siwi|73697769|SIWI GRAFIKA CORPORATION|Indonesia
+SONY|534F4E59|SONY Corporation|JAPAN
+Sony|536F6E79|Sony Corporation|JAPAN
+SPCL|5350434C|SpectraCal|USA
+STAR|53544152|Star|USA
+STC |53544320|Sampo Technology Corporation|USA
+TALO|54414C4F|Talon Technology Corporation|USA
+TAND|54414E44|Tandy|USA
+TATU|54415455|Tatung Co. of America, Inc.|USA
+TAXA|54415841|TAXAN America, Inc.|USA
+TDS |54445320|Tokyo Denshi Sekei K.K.|Japan
+TECO|5445434F|TECO Information Systems, Inc.|USA
+TEGR|54454752|Tegra|USA
+TEKT|54454B54|Tektronix, Inc.|USA
+TI  |54492020|Texas Instruments|USA
+TMKR|544D4B52|TypeMakerLtd.|UK
+TOSB|544F5342|TOSHIBA corp.|JAPAN

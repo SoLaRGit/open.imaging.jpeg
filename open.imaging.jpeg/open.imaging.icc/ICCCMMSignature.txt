@@ -1,0 +1,24 @@
+﻿41444245|ADBE|2004-01-13|Adobe Systems, Inc.|Adobe CMM
+41434D53|ACMS|2009-03-16|Agfa Graphics N.V.|Agfa CMM
+6170706C|appl|2004-01-23|Apple Computer|Apple CMM
+43434D53|CCMS|2004-01-13|Canon|ColorGear CMM
+5543434D|UCCM|2004-01-13|Canon|ColorGear CMM Lite
+55434D53|UCMS|2011-03-09|Canon|ColorGear CMM C
+45464920|EFI |2009-01-07|EFI|EFI CMM
+46462020|FF  |2004-02-25|Fuji Film Electronic Imaging|Fuji Film CMM
+45584143|EXAC|2013-03-23|ExactCODE GmbH|ExactScan CMM
+48434d4d|HCMM|2004-02-11|Global Graphics Software Inc|Harlequin RIP CMM
+6172676C|argl|2004-11-20|Graeme Gill|Argyll CMS CMM
+44676f53|LgoS|2004-01-20|GretagMacbeth|LogoSync CMM
+48444d20|HDM |2004-01-13|Heidelberger Druckmaschinen AG|Heidelberg CMM
+6C636d73|lcms|2004-01-08|Hewlett Packard|Little CMS CMM
+4b434d53|KCMS|2004-01-09|Kodak|Kodak CMM
+4d434d44|MCML|2003-11-25|Konica Minolta|Konica Minolta CMM
+57435320|WCS |2013-09-05|Microsoft|Windows Color System CMM
+5349474E|SIGN|2005-08-31|Mutoh|Mutoh CMM
+52474d53|RGMS|2007-09-30|Rolf Gierling Multitools|DeviceLink CMM
+53494343|SICC|2005-03-16|SampleICC|SampleICC CMM
+54434d4d|TCMM|2013-08-02|Toshiba TEC Corporation|Toshiba CMM
+33324254|32BT|2004-10-14|the imaging factory|the imaging factory CMM
+57544720|WTG |2009-11-03|Ware To Go|Ware to Go CMM
+7a633030|zc00|2008-02-23|Zoran Corporation|Zoran CMM

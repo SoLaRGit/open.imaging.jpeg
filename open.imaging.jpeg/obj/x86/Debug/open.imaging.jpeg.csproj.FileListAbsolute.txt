@@ -1,0 +1,9 @@
+C:\MyProjectsCS2\open\imaging\jpeg\bin\open.imaging.jpeg.dll.config
+C:\MyProjectsCS2\open\imaging\jpeg\bin\open.imaging.jpeg.XML
+C:\MyProjectsCS2\open\imaging\jpeg\bin\open.imaging.jpeg.dll
+C:\MyProjectsCS2\open\imaging\jpeg\bin\open.imaging.jpeg.pdb
+C:\MyProjectsCS2\open\imaging\jpeg\open.imaging.jpeg\obj\x86\Debug\open.imaging.jpeg.Properties.Resources.resources
+C:\MyProjectsCS2\open\imaging\jpeg\open.imaging.jpeg\obj\x86\Debug\open.imaging.jpeg.csproj.GenerateResource.Cache
+C:\MyProjectsCS2\open\imaging\jpeg\open.imaging.jpeg\obj\x86\Debug\open.imaging.jpeg.dll
+C:\MyProjectsCS2\open\imaging\jpeg\open.imaging.jpeg\obj\x86\Debug\open.imaging.jpeg.pdb
+C:\MyProjectsCS2\open\imaging\jpeg\bin\open.imaging.jpeg.tlb

@@ -1,0 +1,300 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{EE4B7E42-0D1C-4433-A94C-0DF67CD4AEC9}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>open.imaging.jpeg</RootNamespace>
+    <AssemblyName>open.imaging.jpeg</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup>
+    <DefineConstants />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;$(DefineConstants)</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <GenerateSerializationAssemblies>On</GenerateSerializationAssemblies>
+    <RegisterForComInterop>true</RegisterForComInterop>
+    <DocumentationFile>..\bin\open.imaging.jpeg.XML</DocumentationFile>
+    <NoWarn>1587,1591</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\bin\</OutputPath>
+    <DefineConstants>TRACE;$(DefineConstants)</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <RegisterForComInterop>true</RegisterForComInterop>
+    <GenerateSerializationAssemblies>On</GenerateSerializationAssemblies>
+    <DocumentationFile>..\bin\open.imaging.jpeg.XML</DocumentationFile>
+    <NoWarn>1587,1591</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>..\bin\</OutputPath>
+    <DefineConstants>TRACE;DEBUG;CPUANY;NET10;NET20;NET30;NET35;NET40;</DefineConstants>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <RegisterForComInterop>true</RegisterForComInterop>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Debug\open.imaging.jpeg.dll.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <GenerateSerializationAssemblies>On</GenerateSerializationAssemblies>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+    <CodeAnalysisFailOnMissingRules>false</CodeAnalysisFailOnMissingRules>
+    <DocumentationFile>..\bin\open.imaging.jpeg.XML</DocumentationFile>
+    <NoWarn>1587,1591</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <OutputPath>..\bin\</OutputPath>
+    <DefineConstants>TRACE;CPUANY;RELEASE;NET10;NET20;NET30;NET35;NET40;</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Release\open.imaging.jpeg.dll.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisRuleDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+    <CodeAnalysisFailOnMissingRules>false</CodeAnalysisFailOnMissingRules>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <RegisterForComInterop>true</RegisterForComInterop>
+    <GenerateSerializationAssemblies>On</GenerateSerializationAssemblies>
+    <DocumentationFile>..\bin\open.imaging.jpeg.XML</DocumentationFile>
+    <NoWarn>1587,1591</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>..\bin\</OutputPath>
+    <DefineConstants>TRACE;DEBUG;CPUx64;NET10;NET20;NET30;NET35;NET40;</DefineConstants>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <RegisterForComInterop>true</RegisterForComInterop>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Debug\open.imaging.jpeg.dll.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <GenerateSerializationAssemblies>On</GenerateSerializationAssemblies>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisRuleDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+    <CodeAnalysisFailOnMissingRules>false</CodeAnalysisFailOnMissingRules>
+    <DocumentationFile>..\bin\open.imaging.jpeg.XML</DocumentationFile>
+    <NoWarn>1587,1591</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>..\bin\</OutputPath>
+    <DefineConstants>TRACE;CPUx64;RELEASE;NET10;NET20;NET30;NET35;NET40;</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Release\open.imaging.jpeg.dll.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <RegisterForComInterop>true</RegisterForComInterop>
+    <GenerateSerializationAssemblies>On</GenerateSerializationAssemblies>
+    <DocumentationFile>..\bin\open.imaging.jpeg.XML</DocumentationFile>
+    <NoWarn>1587,1591</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(TargetFrameworkVersion)' == 'v2.0' ">
+    <DefineConstants>NET10;NET20;$(DefineConstants)</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(TargetFrameworkVersion)' == 'v3.0' ">
+    <DefineConstants>NET10;NET20;NET30;$(DefineConstants)</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(TargetFrameworkVersion)' == 'v3.5' ">
+    <DefineConstants>NET10;NET20;NET30;NET35;$(DefineConstants)</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(TargetFrameworkVersion)' == 'v4.0' ">
+    <DefineConstants>NET10;NET20;NET30;NET35;NET40;$(DefineConstants)</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(TargetFrameworkVersion)' == 'v4.5' ">
+    <DefineConstants>NET10;NET20;NET30;NET35;NET40;NET45;$(DefineConstants)</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DefineConstants>RELEASE;$(DefineConstants)</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DefineConstants>DEBUG;$(DefineConstants)</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
+    <DefineConstants>CPUANY;$(DefineConstants)</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'Itanium' ">
+    <DefineConstants>CPUITANIUM;$(DefineConstants)</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'x86' ">
+    <DefineConstants>CPUx86;$(DefineConstants)</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'x64' ">
+    <DefineConstants>CPUx64;$(DefineConstants)</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|Itanium'">
+    <OutputPath>..\bin\</OutputPath>
+    <RegisterForComInterop>true</RegisterForComInterop>
+    <GenerateSerializationAssemblies>On</GenerateSerializationAssemblies>
+    <PlatformTarget>Itanium</PlatformTarget>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <DefineConstants>TRACE;CPUITANIUM;DEBUG;NET10;NET20;NET30;NET35;NET40;</DefineConstants>
+    <DocumentationFile>..\bin\open.imaging.jpeg.XML</DocumentationFile>
+    <NoWarn>1587,1591</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|Itanium'">
+    <OutputPath>..\bin\</OutputPath>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Optimize>true</Optimize>
+    <DefineConstants>TRACE;CPUITANIUM;RELEASE;NET10;NET20;NET30;NET35;NET40;</DefineConstants>
+    <RegisterForComInterop>true</RegisterForComInterop>
+    <GenerateSerializationAssemblies>On</GenerateSerializationAssemblies>
+    <DocumentationFile>..\bin\open.imaging.jpeg.XML</DocumentationFile>
+    <NoWarn>1587,1591</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="global\GenericSerializer_T.cs" />
+    <Compile Include="open.imaging.icc\types\ICCTagDataTypeS15Fixed16Array.cs" />
+    <Compile Include="open.imaging.icc\types\ICCTagDataTypeMultiProcessElements.cs" />
+    <Compile Include="open.imaging.icc\types\ICCTagDataTypeLutBToA.cs" />
+    <Compile Include="open.imaging.icc\types\ICCTagDataTypeParametricCurve.cs" />
+    <Compile Include="open.imaging.icc\types\ICCTagDataTypeLutAToB.cs" />
+    <Compile Include="open.imaging.icc\types\ICCTagDataTypeLut16.cs" />
+    <Compile Include="open.imaging.icc\types\ICCTagDataTypeLut8.cs" />
+    <Compile Include="open.imaging.icc\types\ICCTagDataTypeSignature.cs" />
+    <Compile Include="open.imaging.icc\types\ICCTagDataTypeMeasurement.cs" />
+    <Compile Include="open.imaging.icc\types\ICCTagDataTypeViewingConditions.cs" />
+    <Compile Include="open.imaging.icc\types\ICCTagDataTypeCurve.cs" />
+    <Compile Include="open.imaging.icc\types\ICCTagDataTypeDateTime.cs" />
+    <Compile Include="open.imaging.icc\types\ICCTagDataTypeData.cs" />
+    <Compile Include="open.imaging.icc\types\ICCTagDataTypeChromacity.cs" />
+    <Compile Include="open.imaging.icc\ICCTag.cs" />
+    <Compile Include="open.imaging.icc\types\ICCTagData.cs" />
+    <Compile Include="open.imaging.icc\ICCProfile.cs" />
+    <Compile Include="open.imaging.icc\types\ICCTagDataTypeColorantOrder.cs" />
+    <Compile Include="open.imaging.icc\types\ICCTagDataTypeDescription.cs" />
+    <Compile Include="open.imaging.icc\types\ICCTagDataTypeMultiLocalizedUnicode.cs" />
+    <Compile Include="open.imaging.icc\types\ICCTagDataTypeText.cs" />
+    <Compile Include="open.imaging.icc\types\ICCTagDataTypeXYZ.cs" />
+    <Compile Include="open.imaging.icc\types\ICCTs15Fixed16Number.cs" />
+    <Compile Include="open.imaging.icc\types\ICCTu15Fixed16Number.cs" />
+    <Compile Include="open.imaging.icc\types\ICCTXYZNumber.cs" />
+    <Compile Include="open.imaging.jpeg\JpegFileSegAPPPHOTO.cs" />
+    <Compile Include="open.imaging.jpeg\JpegFileSegAPPADOBE.cs" />
+    <Compile Include="open.imaging.jpeg\JpegFileSegAPPICC.cs" />
+    <Compile Include="open.imaging.jpeg\IFDEntries.cs" />
+    <Compile Include="open.imaging.jpeg\IFDTypeRATIONAL.cs" />
+    <Compile Include="open.imaging.jpeg\IFDTypeSRATIONAL.cs" />
+    <Compile Include="open.imaging.jpeg\Canon\CanonCameraSettings.cs" />
+    <Compile Include="global\HighPerformanceCounter.cs" />
+    <Compile Include="global\EnumConstraint.cs" />
+    <Compile Include="open.imaging.jpeg\IFDEntrySortByTag.cs" />
+    <Compile Include="open.imaging.jpeg\JpegFileEventArgs.cs" />
+    <Compile Include="open.imaging.jpeg\JpegFileReadException.cs" />
+    <Compile Include="open.imaging.jpeg\JpegFileSegAPP.cs" />
+    <Compile Include="open.imaging.jpeg\JpegFileSegJFXX.cs" />
+    <Compile Include="open.imaging.jpeg\IFDEntryLUT.cs" />
+    <Compile Include="open.imaging.jpeg\JpegFileSegJFIF.cs" />
+    <Compile Include="open.imaging.jpeg\IFDEventArgs.cs" />
+    <Compile Include="global\ReadOnlyArray_T.cs" />
+    <Compile Include="open.imaging.jpeg\IFD.cs" />
+    <Compile Include="open.imaging.jpeg\IFDByteOrder.cs" />
+    <Compile Include="open.imaging.jpeg\IFDEntry.cs" />
+    <Compile Include="open.imaging.jpeg\IFDResolutionUnit.cs" />
+    <Compile Include="open.imaging.jpeg\IFDTags.cs" />
+    <Compile Include="open.imaging.jpeg\IFDType.cs" />
+    <Compile Include="open.imaging.jpeg\JpegFile.cs" />
+    <Compile Include="open.imaging.jpeg\JpegFileReadFlags.cs" />
+    <Compile Include="open.imaging.jpeg\JpegFileSeg.cs" />
+    <Compile Include="open.imaging.jpeg\JpegBinaryReader.cs" />
+    <Compile Include="open.imaging.jpeg\JpegFileSegEXIF.cs" />
+    <Compile Include="open.imaging.jpeg\JpegFileSegCOM.cs" />
+    <Compile Include="open.imaging.jpeg\JpegFileSegData.cs" />
+    <Compile Include="open.imaging.jpeg\JpegFileSegMarker.cs" />
+    <Compile Include="open.imaging.jpeg\JpegBinaryWriter.cs" />
+    <Compile Include="global\ReadOnly_T.cs" />
+    <Compile Include="global\StringHexExtension.cs" />
+    <Compile Include="global\Extensions.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="EnumConstrain.il" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="open.imaging.icc\ICCCMMSignature.txt" />
+    <Content Include="open.imaging.icc\ICCManufacturer.txt" />
+    <Content Include="open.imaging.icc\README.txt" />
+    <Content Include="README.txt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
